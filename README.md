@@ -1,1 +1,1 @@
-# quickmath
+# QuickMath
